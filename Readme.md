@@ -12,7 +12,7 @@ This repository contains an end-to-end project for restoring images corrupted wi
 
 ## Dataset
 
-You can use your own dataset by placing your images in a folder named `BSD500` in the repository's root. Alternatively, you can try a publicly available dataset on Kaggle. For example, you might consider using the [BSD500 Dataset](INSERT_KAGGLE_LINK_HERE) as a starting point.
+You can use your own dataset by placing your images in a folder named `BSD500` in the repository's root. Alternatively, you can try a publicly available dataset on Kaggle. For example, you might consider using the [BSD500 Dataset](https://www.kaggle.com/datasets/muneeriqbal24/images-data-for-adding-and-removing-purpose) as a starting point.
 
 ## Features
 
